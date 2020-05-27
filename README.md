@@ -1,2 +1,2 @@
 # Mayin-Tarlasi-Oyunu
-Algoritma ve programlama mayın tarlası projem
+Java'da hazırlanmış gelişmiş bir mayın tarlası oyunu.The advanced minesweeper is devoloping in java.
